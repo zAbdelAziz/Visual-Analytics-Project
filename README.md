@@ -3,6 +3,8 @@ Submission for the Visual Analytics lab project at the Johannes Kepler Universit
 
 ## General Information
 
+All Visuals and submissions can be viewed under the submissions folder
+
 ### Group Members
 
 | Student ID    | First Name  | Last Name      | E-Mail             | Workload [%]  |
@@ -31,42 +33,6 @@ This Dataset is created from Our World in Data. https://ourworldindata.org/. Com
 * Save your executed submission notebooks as HTML and add them to your repository.  
   * Select 'File' -> 'Save and Export Notebook As...' -> 'HTML'
 * Upload the exported HTML file on Moodle, if it is required for the submission.
-
-## Usage
-
-### Locally
-Checkout this repo and change into the folder:
-
-```shell
-git clone https://github.com/jku-icg-classroom/va-project-2022-thefantasticfour.git
-cd va-project-2022-thefantasticfour
-```
-
-Load the conda environment from the `environment.yml` file, if you haven't already in previous assignments:
-
-```sh
-conda env create -f environment.yml
-```
-
-Activate the loaded conda environment:
-
-```sh
-conda activate python-tutorial
-```
-
-Install Jupyter Lab extension to use *ipywidgets* in JupyterLab:
-
-```sh
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
-```
-
-Launch Jupyter :
-
-```shell
-jupyter lab
-```
-
-Jupyter should open a new tab with url http://localhost:8888/ and display the tutorial files.
 
 
 
