@@ -16,9 +16,9 @@ For a detailed project spezification look up the [Visual Analytics Moodel page](
 | Student ID    | First Name  | Last Name      | E-Mail             | Workload [%]  |
 | --------------|-------------|----------------|--------------------|---------------|
 | k01547577     | Hanna      | Messner         |hannajuni@web.de                |10%|
-| k12017433     | Ádám       | Párkányi        |adam.parkanyi@gmail.com         |10%|
-| k12137202     | Mohamed    | Abdelaziz       |mohamed.yz.abdelaziz@gmail.com  |40%|
-| k12104744     | Ivan       | Drinovac        |drinovacivan1@gmail.com         |40%|
+| k12017433     | Ádám       | Párkányi        |adam.parkanyi@gmail.com         | 0%|
+| k12137202     | Mohamed    | Abdelaziz       |mohamed.yz.abdelaziz@gmail.com  |70%|
+| k12104744     | Ivan       | Drinovac        |drinovacivan1@gmail.com         |20%|
 
 ### Dataset
 
