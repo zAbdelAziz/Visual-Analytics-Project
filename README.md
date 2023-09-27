@@ -1,13 +1,5 @@
 # Visual Analytics Lab Project
-Submission template for the Visual Analytics lab project at the Johannes Kepler University Linz.
-
-**Explanation:**
-This `README.md` needs to be updated and pushed to GitHub.
-Change/extend the corresponding sections by replacing the [TODO] markers.
-
-For a detailed project spezification look up the [Visual Analytics Moodel page](https://moodle.jku.at/jku/course/view.php?id=20471).
-
-**Tip:** Make yourself familiar with [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+Submission for the Visual Analytics lab project at the Johannes Kepler University Linz.
 
 ## General Information
 
